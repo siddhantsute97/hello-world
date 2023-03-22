@@ -1,0 +1,42 @@
+[33mcommit c08188b6879a3afd99d354281d9afc6c70036eed[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: siddhantsute97 <128572028+siddhantsute97@users.noreply.github.com>
+Date:   Wed Mar 22 11:33:00 2023 +0530
+
+    Update README.md
+
+[33mcommit c83de41af8503372a119aa69b35f8f0b48ef150f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 080b440 62d6657
+Author: siddhant97 <siddhantsute@gmail.com>
+Date:   Wed Mar 22 00:23:18 2023 +0530
+
+    merge with hello-world-image after fixing conflict
+
+[33mcommit 62d66572cb4924bf3d739896741eb0504503dcc5[m
+Author: siddhant97 <siddhantsute@gmail.com>
+Date:   Wed Mar 22 00:18:59 2023 +0530
+
+    added new image
+
+[33mcommit 080b440ce2fc708d2ded590e34ed92a8c2139a46[m
+Author: siddhant97 <siddhantsute@gmail.com>
+Date:   Wed Mar 22 00:12:15 2023 +0530
+
+    Updated index.html with emergency fix
+
+[33mcommit a461e3db5268dd51b149d4db6041072aeb1d00f6[m
+Author: siddhant97 <siddhantsute@gmail.com>
+Date:   Wed Mar 22 00:06:16 2023 +0530
+
+    Adding image to html world
+
+[33mcommit 1be6733d5976aeb6ebcfc0e191d60b747d90984c[m
+Author: siddhant97 <siddhantsute@gmail.com>
+Date:   Tue Mar 21 22:49:45 2023 +0530
+
+    updated index.html with a new line
+
+[33mcommit aa6e62b982832efd089a5844f0623c6e0896a0e6[m
+Author: siddhant97 <siddhantsute@gmail.com>
+Date:   Tue Mar 21 22:41:29 2023 +0530
+
+    first release of Hello World
